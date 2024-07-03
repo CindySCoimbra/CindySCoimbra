@@ -1,6 +1,7 @@
-![Hello world!](https://github.com/CindySCoimbra/CindySCoimbra/assets/142323219/15b2468c-8f27-4ffa-8857-37b3b332a4df)
+![Header](https://github.com/CindySCoimbra/CindySCoimbra/assets/142323219/15b2468c-8f27-4ffa-8857-37b3b332a4df)
 
 ##
+<!--ABOUT ME -->
 <div>
   <p align="justify" > My name's Cindy!<br> I'm a student of systems analysis and development at Fatec Ferraz de Vasconcelos.<br> I like learning new things, I always try to be organized, creative and innovative in my routine.  </p>
 </div>
@@ -20,7 +21,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=300&size=45&pause=700&color=ae203c&background=05020700&center=true&vCenter=true&random=false&width=1000&lines=I'm+an+Analyst;I'm+Creative;I'm+Programmer;I'm+dreamer)](https://git.io/typing-svg)
 
 
-![Design sem nome](https://github.com/CindySCoimbra/CindySCoimbra/assets/142323219/13febe22-f0b7-466a-94ff-5aa696d4fdb5)
+![Footer](https://github.com/CindySCoimbra/CindySCoimbra/assets/142323219/13febe22-f0b7-466a-94ff-5aa696d4fdb5)
 
 
 <!---

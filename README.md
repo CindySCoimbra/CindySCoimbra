@@ -8,12 +8,12 @@
 
 ##
 <!--LANGUAGES -->
-![Python](https://img.shields.io/badge/Python-340634?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-670442?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-340634?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-670442?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 ![Html5](https://img.shields.io/badge/HTML5-980f42?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-ae203c?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-c13433?style=for-the-badge&logo=javascript&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-d04b26?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySql](https://img.shields.io/badge/MySQL-d04b26?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 ##

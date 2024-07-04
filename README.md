@@ -1,9 +1,14 @@
 ![Header](https://github.com/CindySCoimbra/CindySCoimbra/assets/142323219/15b2468c-8f27-4ffa-8857-37b3b332a4df)
 
 ##
-<!--ABOUT ME -->
+<!--PRESENTATION -->
 <div>
-  <p align="justify" > My name's Cindy!<br> I'm a student of systems analysis and development at Fatec Ferraz de Vasconcelos.<br> I like learning new things, I always try to be organized, creative and innovative in my routine.  </p>
+  <h3 align= "center">
+    Welcome to my Github!
+  </h3>
+  <p align="center"> 
+    My name's Cindy!<br> I'm a student of systems analysis and development.   
+  </p>
 </div>
 
 ##
@@ -15,6 +20,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-c13433?style=for-the-badge&logo=javascript&logoColor=white)
 [![MySql](https://img.shields.io/badge/MySQL-d04b26?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+##
+<!-- MORE ABOUT ME -->
+<details>
+  <summary> More About ME </summary>
+  <ul>
+    <li>🎓 I'm a student of systems analysis and development by Fatec</li>
+    <li>📚 I'm studying Python | Dev Web | Java | MySQL </li> 
+    <li>🗣️​ I speak fluent/native Potuguese | Basic English</li>
+    <li>🚀​ I always try to be organized, creative and innovative in my routines</li>
+    <li>🤓​ I like learning new things! </li>
+  </ul>
+  
+</details>
 
 ##
 

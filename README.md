@@ -31,7 +31,7 @@
   <summary> More About ME </summary>
   <ul>
     <li>🎓 I'm a student of systems analysis and development by Fatec</li>
-    <li>📚 I'm studying Python | Dev Web | Java | MySQL </li> 
+    <li>📚 I'm studying Python | Dev Web | Java | MySQL | Kotlin | Android Studio </li> 
     <li>🗣️​ I speak fluent/native Potuguese | Basic English</li>
     <li>🚀​ I always try to be organized, creative and innovative in my routines</li>
     <li>🤓​ I like learning new things! </li>

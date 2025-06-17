@@ -29,8 +29,8 @@
 ##
 
 <!-- MORE ABOUT ME -->
-<details>
-  <summary> More About ME </summary>
+<div classname=MoreAbout>
+  <h3 > About ME </h3>
   <ul>
     <li>🎓 I'm a student of systems analysis and development by Fatec</li>
     <li>📚 I'm studying Python | Dev Web | Java | MySQL | Kotlin | Android Studio </li> 
@@ -38,8 +38,9 @@
     <li>🚀​ I always try to be organized, creative and innovative in my routines</li>
     <li>🤓​ I like learning new things! </li>
   </ul>
-  
-</details>
+</div>
+
+##
 
 <div align= "center">
   <pre>
